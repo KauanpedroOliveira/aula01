@@ -7,4 +7,4 @@ acontece do dia 18 a 22 de março
 n p m install bootstrap@.3.1.alphal
 ...
 ```
-* Kauã
+* Kauã Pedro
